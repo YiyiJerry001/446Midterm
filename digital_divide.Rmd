@@ -1,0 +1,16 @@
+---
+title: "Bridging the Digital Divide in Our Community"
+author: "Yifan Zhao"
+output: 
+  html_document:
+    theme: flatly
+    toc: true
+---
+
+## The Civic Problem: The Digital Divide
+
+The digital divide refers to the unequal access to technology and the internet among different segments of the population. In many Illinois communities, broadband access remains limited due to geographic, economic, or infrastructural barriers. While urban areas often enjoy high-speed internet and affordable data plans, rural and low-income neighborhoods struggle with slow connections or no access at all.
+
+This issue extends beyond convenience—it affects education, employment, healthcare, and civic participation. Students without reliable internet access face challenges completing online assignments or attending virtual classes. Job seekers cannot access digital job applications, and residents may be unable to schedule telehealth appointments or engage in online government services. 
+
+The lack of digital access widens social and economic inequality, leaving certain groups disconnected from vital resources and opportunities. Public administrators must recognize that digital infrastructure is now as essential as roads or electricity. Addressing this issue requires investment in broadband expansion, community Wi-Fi programs, and digital literacy initiatives. Bridging this divide not only connects people to the internet but also connects them to a fairer and more inclusive future.
